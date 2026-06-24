@@ -8,3 +8,4 @@ journey, so stay tuned
 
 *RETHorizon currently has 8 contributors consists of 2 Writer, 2 Programmers, 1 Art Artist, 1 Game Design Artis, 1 Quality Assurance/Playtester and the last we had Investor for funding this project*
 ## Stay tuned for another announcement from us
+![banner](https://raw.githubusercontent.com/CptRohr/project-reth-1/main/Assets/RETHorizon%20Studio%20Logo%20White%20github%20repo%20banner.png)
